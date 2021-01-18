@@ -67,6 +67,7 @@ button:hover {
 }
 .action {
   background-color: #3c3e64;
+  color:#fff;
 }
 .operators > .btn {
   flex: 1;
